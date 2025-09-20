@@ -19,7 +19,7 @@ DESC="CodeMeter Server"
 NAME=codemeter
 DAEMON=/usr/sbin/CodeMeterLin
 DAEMON_ARGS="-f -v"
-USER=root
+USER=codesys
 SCRIPTNAME=/home/codesys/$NAME
 CONFIGFILE=/etc/wibu/CodeMeter/Server.ini
 
